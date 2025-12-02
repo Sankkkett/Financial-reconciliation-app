@@ -4,6 +4,8 @@ A smart and interactive **Streamlit-based Bank Reconciliation App** that automat
 
 ## 📊Dashboard 
 ![Financial-Reconciliation Dashboard](https://github.com/Sankkkett/Financial-reconciliation-app/blob/main/Dashboard.jpeg)
+![Financial-Reconciliation Dashboar1](https://github.com/Sankkkett/Financial-reconciliation-app/blob/main/dashboard-2.jpeg)
+![Financial-Reconciliation Dashboard2](https://github.com/Sankkkett/Financial-reconciliation-app/blob/main/dashboard-3.jpeg)
 
 🔗 **Live App:** https://bank-reconciliation-app.streamlit.app/
 
@@ -37,10 +39,10 @@ The app includes:
 ## 📁 Input File Requirements
 
 ### Internal CSV Format
-🔗 **Internal_expenses_large.csv** 
+🔗 **Internal_expenses_large.csv** https://github.com/Sankkkett/Financial-reconciliation-app/blob/main/internal_expenses_large.csv
 
 ### Bank CSV Format
-🔗 **Bank_statement_large.csv**  
+🔗 **Bank_statement_large.csv**  https://github.com/Sankkkett/Financial-reconciliation-app/blob/main/bank_statement_large.csv
 
 The app automatically:
 - Converts dates  
