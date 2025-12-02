@@ -3,7 +3,7 @@
 A smart and interactive **Streamlit-based Bank Reconciliation App** that automatically matches internal financial transactions with bank statement entries using fuzzy logic, vendor similarity scoring, date tolerance, and amount bucketing.
 
 ## 📊Dashboard 
-![Financial-Reconciliation Dashboard]()
+![Financial-Reconciliation Dashboard](https://github.com/Sankkkett/Financial-reconciliation-app/blob/main/Dashboard.jpeg)
 
 🔗 **Live App:** https://bank-reconciliation-app.streamlit.app/
 
